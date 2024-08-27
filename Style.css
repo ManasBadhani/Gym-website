@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: - BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: url("fitness_v_03.jpg");
+}
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(194, 237, 244);
+}
+header {
+    padding: 40px;
+    background-color: rgb(42, 67, 71);
+}
+nav {
+    background-color: #589fbe;
+    overflow: hidden;
+}
+nav a {
+    text-decoration: none;
+    padding: 50px;
+    text-align:center;
+    float: center;
+    color: white;
+}
+main {
+    background:;
+    text-align: center;
+}
